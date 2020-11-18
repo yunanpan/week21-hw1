@@ -1,4 +1,3 @@
-import "./App.css";
 import styled from "styled-components";
 import { useState } from "react"; // 要用 state 要 import React
 
